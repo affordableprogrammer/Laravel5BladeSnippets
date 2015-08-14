@@ -15,7 +15,7 @@ Via `Package Manager` search for `Laravel 5 Blade Snippets` then click/tap…wai
 
 Or clone this repository into your Packages folder:
 
-    git clone https://github.com/affordableprogrammer/Laravel5BladeSnippets
+    git clone https://github.com/affordableprogrammer/Laravel5BladeSnippets.git
 
 
 Or download the snippets zip file and unzip it into your Packages folder.
