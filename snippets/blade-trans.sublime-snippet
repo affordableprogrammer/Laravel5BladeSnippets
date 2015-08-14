@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+{!! trans('${0:language.line}') !!}
+]]></content>
+    <tabTrigger>trans</tabTrigger>
+    <scope>source.php, source.html, text.html.laravel-blade, text.html.laravel-blade source.php.embedded.line, text.html.laravel-blade comment.block.laravel-blade, text.html, source.text</scope>
+</snippet>

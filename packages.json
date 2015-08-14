@@ -1,0 +1,23 @@
+{
+	 
+	"schema_version": "1.0.0",
+ 
+	"packages": [
+ 
+				{
+					"name": "Laravel 5 Blade Snippets",
+					"details": "https://github.com/phillipmadsen/Laravel-5-Blade-Snippets",
+					"labels": ["blade templates", "laravel 5 snippets", "snippets", "templates", "blade", "file creation", "auto-complete"],
+					"readme": "https://raw.githubusercontent.com/affordableprogrammer/Laravel5BladeSnippets/master/README.md",
+					"homepage": "http://www.affordableprogrammer.com",
+					"author": ["affordableprogrammer", "phillipmadsen"],
+					"releases": [ {
+									"version": "1.0.0",
+									"url": "https://github.com/affordableprogrammer/Laravel5BladeSnippets/archive/v1.0.0.zip",
+									"date": "2015-8-14 14:30:00",
+									"sublime_text": "*",
+									"branch": "master",
+									"tags": true
+								} ]
+		} ]
+}
